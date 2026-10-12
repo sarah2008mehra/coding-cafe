@@ -1,0 +1,127 @@
+    1  pwd
+    2  ls
+    3  xcode-select--install
+    4  clang--version
+    5  xcode-select--install
+    6  xcode-select--install
+    7  clang--version
+    8  /Users/sarahmehra/Desktop/lecture1
+    9  /Users/sarahmehra/Desktop/lecture1
+   10  /Users/sarahmehra/Desktop/lecture1
+   11  /Users/sarahmehra/Desktop/lecture1
+   12  /Users/sarahmehra/Desktop/lecture1
+   13  /Users/sarahmehra/Desktop/lecture1
+   14  /Users/sarahmehra/Desktop/lecture1
+   15  /Users/sarahmehra/Desktop/lecture1
+   16  /Users/sarahmehra/Desktop/lecture1
+   17  /Users/sarahmehra/Desktop/lecture1
+   18  /Users/sarahmehra/Desktop/lecture1 ; exit;
+   19  /Users/sarahmehra/Desktop/lecture1 ; exit;
+   20  /Users/sarahmehra/Desktop/lecture1 ; exit;
+   21  /Users/sarahmehra/Desktop/assignment1 ; exit;
+   22  /Users/sarahmehra/Desktop/lecture1
+   23  /Users/sarahmehra/Desktop/assignment1
+   24  /Users/sarahmehra/Desktop/assignment1
+   25  /Users/sarahmehra/Desktop/assignment1
+   26  /Users/sarahmehra/Desktop/assignment1
+   27  /Users/sarahmehra/Desktop/assignment1
+   28  /Users/sarahmehra/Desktop/assignment1
+   29  /Users/sarahmehra/Desktop/assignment1
+   30  /Users/sarahmehra/Desktop/assignment1
+   31  /Users/sarahmehra/Desktop/assignment1
+   32  /Users/sarahmehra/Desktop/assignment1
+   33  /Users/sarahmehra/Desktop/assignment1
+   34  /Users/sarahmehra/Desktop/assignment1
+   35  /Users/sarahmehra/Desktop/assignment1
+   36  /Users/sarahmehra/Desktop/assignment1
+   37  /Users/sarahmehra/Desktop/assignment1
+   38  /Users/sarahmehra/Desktop/assignment1
+   39  /Users/sarahmehra/Desktop/assignment1
+   40  /Users/sarahmehra/Desktop/assignment1
+   41  /Users/sarahmehra/Desktop/assignment1
+   42  /Users/sarahmehra/Desktop/assignment1
+   43  /Users/sarahmehra/Desktop/assignment1
+   44  /Users/sarahmehra/Desktop/assignment1
+   45  /Users/sarahmehra/Desktop/assignment1
+   46  /Users/sarahmehra/Desktop/assignment1
+   47  /Users/sarahmehra/Desktop/assignment1
+   48  /Users/sarahmehra/Desktop/assignment1 ; exit;
+   49  ~$python3--version
+   50  python3
+   51  pwd
+   52  ls
+   53  ls-a
+   54  ls -a
+   55  ls -l
+   56  ```bash\ncoding-cafe/\n├── week01/\n├── week02/\n│   └── notes.md\n└── README.md\n```
+   57  bash
+   58  pwd
+   59  ls
+   60  ls -a
+   61  ls a-l
+   62  ls -l
+   63  cd ~
+   64  mkdir coding-cafe
+   65  cd coding-cafe
+   66  mkdir week01
+   67  mkdir week02
+   68  cd week02
+   69  touch notes.md
+   70  cd ..
+   71  touch README.md
+   72  ls -R
+   73  ls coding-cafe/week02
+   74  cd ~
+   75  ls coding-cafe/week02
+   76  open coding-cafe/week02/notes.md
+   77  cd ~/coding-cafe
+   78  cp README.md README-backup.md
+   79  mv README-backup.md week01/
+   80  cd week01
+   81  mv README-backup.md old-readme.md
+   82  ls
+   83  rm old-readme.md
+   84  ls
+   85  cd ..
+   86  echo $PATH
+   87  which python3
+   88  which pip
+   89  which ls
+   90  cd ~/coding-cafe
+   91  python3-m venv .venv
+   92  ls
+   93  ls -a
+   94  ls -a
+   95  source .venv/bin/activate
+   96  source .venv/bin/activate
+   97  pip list
+   98  deactivate
+   99  man ls
+  100  man man
+  101  cd cod
+  102  cd coding-cafe
+  103  history
+  104  pwd
+  105  history > week02/lab01-log.txt
+  106  ls week02
+  107  ls -R
+  108  cd cod
+  109  cd cod
+  110  python3
+  111  (.venv) sarah@MacBook coding-cafe %
+  112  sarah@Macbook coding-cafe %history > week02/lab01-log.txt
+  113  history > week02/lab01-log.txt
+  114  python3 -m venv .venv
+  115  ls -a
+  116  source .venv/bin/activate
+  117  which python3
+  118  pip list
+  119  pip install requests
+  120  pip list
+  121  deactivate
+  122  which python3
+  123  man ls
+  124  pwd
+  125  history >week02/lab01-log.txt
+  126  ls week02
+  127  history 1
